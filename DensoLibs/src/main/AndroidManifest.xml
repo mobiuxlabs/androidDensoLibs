@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="in.mobiux.android.densolibs">
+
+    <application android:name=".MyApp">
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"></activity>
+        <activity android:name=".core.DensoBaseActivity" />
+    </application>
+
+</manifest>

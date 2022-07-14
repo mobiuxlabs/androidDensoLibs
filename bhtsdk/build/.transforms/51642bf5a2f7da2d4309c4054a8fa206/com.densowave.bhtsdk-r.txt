@@ -1,0 +1,2 @@
+com.densowave.bhtsdk
+string app_name

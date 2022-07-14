@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Denso Libs Reader</string>
+    <string name="action_scan_settings">Scanner Setting</string>
+    <string name="action_symbol_settings">Symbol Setting</string>
+
+
+    <string name="symbol_setting_content">Select Symbol to Read</string>
+
+    <string name="read_data_content">Read Data</string>
+    <string name="code_type_content">Code Type</string>
+    <string name="code_digit_content">Digit Count</string>
+    <string name="read_num_content">Read Number</string>
+    <string name="scan_button_content" translatable="false">SCAN</string>
+
+    <string name="select_trigger_mode">Select Trigger Mode</string>
+
+    <string name="symbol_label_ean13" translatable="false">EAN-13(JAN-13)</string>
+    <string name="symbol_label_ean8" translatable="false">EAN-8(JAN-8)</string>
+    <string name="symbol_label_upce" translatable="false">UPC-E</string>
+    <string name="symbol_label_itf" translatable="false">ITF</string>
+    <string name="symbol_label_stf" translatable="false">STF</string>
+    <string name="symbol_label_codabar" translatable="false">CODABAR(NW-7)</string>
+    <string name="symbol_label_code39" translatable="false">CODE39</string>
+    <string name="symbol_label_code93" translatable="false">CODE93</string>
+    <string name="symbol_label_code128" translatable="false">CODE128</string>
+    <string name="symbol_label_gs1_128" translatable="false">GS1-128</string>
+    <string name="symbol_label_msi" translatable="false">MSI</string>
+    <string name="symbol_label_gs1_databar" translatable="false">GS1 DataBar</string>
+    <string name="symbol_label_qr" translatable="false">QR</string>
+    <string name="symbol_label_micro_qr" translatable="false">MicroQR</string>
+    <string name="symbol_label_iqr" translatable="false">iQR</string>
+    <string name="symbol_label_pdf417" translatable="false">PDF417</string>
+    <string name="symbol_label_micro_pdf417" translatable="false">MicroPDF417</string>
+    <string name="symbol_label_maxi" translatable="false">MaxiCode</string>
+    <string name="symbol_label_data_matrix" translatable="false">Data Matrix</string>
+    <string name="symbol_label_aztec_code" translatable="false">Aztec Code</string>
+
+    <string name="error_message_symbol_settings">Symbol settings could not be reflected</string>
+</resources>

@@ -1,0 +1,4 @@
+rootProject.name = "DensoReader"
+include ':app'
+include ':DensoLibs'
+include ':bhtsdk'
